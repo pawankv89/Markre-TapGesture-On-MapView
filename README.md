@@ -6,8 +6,8 @@ MarkreTapGestureOnMapView
 ------------
  Added Some screens here.
  
-[![](https://github.com/pawankv89/MarkreTapGestureOnMapView/blob/master/images/screen_1.png)]
-[![](https://github.com/pawankv89/MarkreTapGestureOnMapView/blob/master/images/screen_2.png)]
+[![](https://github.com/pawankv89/MarkreTapGestureOnMapView/blob/master/images/screen_01.png)]
+[![](https://github.com/pawankv89/MarkreTapGestureOnMapView/blob/master/images/screen_02.png)]
 
 
 
